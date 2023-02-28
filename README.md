@@ -1,3 +1,3 @@
 ## 龙猫
 
-- java Coder，be interested in database
+- java Coder，interested in database
