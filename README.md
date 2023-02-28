@@ -1,3 +1,3 @@
 ## 龙猫
 
-- java搬砖仔，对数据库感兴趣
+- java Coder，be interested in database
